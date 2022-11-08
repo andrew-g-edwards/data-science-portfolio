@@ -7,3 +7,6 @@ This repository contains a catalog of Data Analytics/Science projects completed 
 - Data Cleaning and Analysis: PANDAS, Google Sheets
 - Data Visualization: Tableau, Seaborn, Matplotlib, plotly
 - Jupyter Notebooks
+
+## Contents
+- Spotify Dataset Analysis [link](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
