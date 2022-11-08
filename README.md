@@ -9,4 +9,4 @@ This repository contains a catalog of Data Analytics/Science projects completed 
 - Jupyter Notebooks
 
 ## Contents
-- Spotify Dataset Analysis [link](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
+- Spotify Dataset Analysis [[kaggle.com]](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
