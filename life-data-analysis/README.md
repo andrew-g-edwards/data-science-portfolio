@@ -17,3 +17,12 @@ NOV 14th, 2022 - Submitted an analysis of 7 months of data.
 - Seaborn + Matplotlib
 - Jupyter Notebooks
 - Tableau
+
+## Analysis
+
+**Correlation:**
+
+
+
+<img width="1103" alt="Screen Shot 2022-11-30 at 12 07 09 PM" src="https://user-images.githubusercontent.com/116092004/204862330-994fdc45-bc18-4894-8590-6434ac0e7ba9.png">
+
