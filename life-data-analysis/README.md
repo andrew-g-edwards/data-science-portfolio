@@ -51,7 +51,7 @@ When I isolate both variables from the other, we can see that socializing has a 
 
 <img width="844" alt="Screen Shot 2022-11-14 at 11 11 17 AM" src="https://user-images.githubusercontent.com/116092004/204876727-bb2df511-b856-4df3-a616-fbf736c9a713.png">
 
-To further investigate the relationship of nicotine & alcohol, as they relate to sleep and socializing I built this graphic in Tableau. Nicotine seems to be largely social, with some variance in correlation. Alcohol is a much more social variable, with dark green on the right and yellow nodes on the left. As these two variables increase in usage together, it is evident that it inpacts my sleeping patterns for the worse.
+To further investigate the relationship of nicotine & alcohol, as they relate to sleep and socializing I built this graphic in Tableau. Nicotine seems to be largely social, with some variance in correlation. Alcohol is a much more social variable, with dark green on the right and yellow nodes on the left. As these two variables increase in usage together, it is evident that it impacts my sleeping patterns for the worse.
 
 <img width="843" alt="Screen Shot 2022-11-14 at 10 53 06 AM" src="https://user-images.githubusercontent.com/116092004/204877769-40c528e3-99aa-4b10-b254-398d9fd25acc.png">
 
@@ -64,4 +64,5 @@ As I've collected more data everyday, I become more conscientious of my behavior
 
 <img width="917" alt="Screen Shot 2022-11-14 at 10 38 49 AM" src="https://user-images.githubusercontent.com/116092004/204878890-69adedc7-4e2c-447f-a8ed-ffb2eda6024e.png">
 
+Spending more time outside over the months I've been tracking this has helped influence an upward trend in my mood. I have also tried to remain consistent with my socializing patterns.
 As I continue to be mindful, I hope to continue engaging in activities and behavior that benefits me and my well-being and minimize those that have adverse effects.
