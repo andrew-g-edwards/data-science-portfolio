@@ -10,6 +10,7 @@ The analysis aims to explore questions:
 - How can I implement these discoveries to contribute to a more sustainable lifestyle?
 
 NOV 14th, 2022 - Submitted an analysis of 7 months of data.
+
 DEC 26th, 2022 - Created [dashboard](https://public.tableau.com/app/profile/andrew.g.edwards/viz/lifedata/Dashboard1?publish=yes) with updated data.
 
 ## Technical Skills Utilized
