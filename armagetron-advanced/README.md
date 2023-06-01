@@ -10,3 +10,5 @@ I built an algorithm that sorts the entire player base based on performance-driv
 - Tableau
 - Discord API
 
+## Data Harvesting
+My colleague wrote a script to track each players' grid position at a tick rate of .1 seconds. From this info we could create logic and math to deduce certain players' habits, gameplay, and consistency in rounds of Fortress. After logging hundreds of rounds of gameplay, I felt the dataset was gained enough volume to start to sort players with inegrity. Data was outputted into a spreadsheet [here](https://docs.google.com/spreadsheets/d/16bRczYQ67d-naU9cHHas0htSFBct_ruu4xmcdI88Q28/edit#gid=2025326523).
