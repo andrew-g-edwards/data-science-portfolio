@@ -8,8 +8,11 @@ This repository contains a catalog of Data Analytics/Science projects completed 
 - Data Visualization: Tableau, Seaborn, Matplotlib, plotly
 - Jupyter Notebook
 - Tableau Dashboards
+- API Data Pulling: Discord, Spotify
 
 ## Contents
+- [Armagetron Advanced](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/armagetron-advanced)
+  - Developed a skill-based match making algorithm for a multi-player online game.
 - [Life Data Analysis](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/life-data-analysis)
   - I tracked data about my everyday life (sleep, mood, habits, weather, etc) for over a year and used it investigate causation and correlation between variables and to process into insightful visualizations using Python libraries and Tableau. Tableau dashboard of dataset [found here.](https://public.tableau.com/app/profile/andrew.g.edwards/viz/Life-Data/UPKEEP?publish=yes)
 - [Top 100 Spotify Analysis](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/top-100-spotify-analysis)
