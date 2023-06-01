@@ -1,7 +1,7 @@
 # Life Data
 Starting April 2022, I started tracking data about my everyday life, including mood, sleep, appetite, exercise, socializing, time spent outdoors, looking at a screen, working, alcohol and nicotine use, hygienic habits, the temperature, and the weather. I store all of this data in a Google Sheet with informative pivot tables, subsets, and formatting.
 
-[Interactive Tableau Dashboard of Data Set](https://public.tableau.com/app/profile/andrew.g.edwards/viz/lifedata/Dashboard1?publish=yes)
+-> [TABLEAU DASHBOARD](https://public.tableau.com/app/profile/andrew.g.edwards/viz/Life-Data/UPKEEP?publish=yes) <-
 
 The analysis aims to explore questions:
 - Which attributes of a day seem correlate with mood?
@@ -9,9 +9,6 @@ The analysis aims to explore questions:
 - Which attributes have changed over time and in what way?
 - How can I implement these discoveries to contribute to a more sustainable lifestyle?
 
-NOV 14th, 2022 - Submitted an analysis of 7 months of data.
-
-DEC 26th, 2022 - Created [dashboard](https://public.tableau.com/app/profile/andrew.g.edwards/viz/lifedata/Dashboard1?publish=yes) with updated data.
 
 ## Technical Skills Utilized
 - Python
