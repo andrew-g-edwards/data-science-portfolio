@@ -4,6 +4,7 @@ I was tasked with creating a skill-based match making algorithm for multi-player
 I built an algorithm that sorts the entire player base based on performance-driven skill indicators, and separates players into 7 categories of play-style. When 12 players join the Queue to play, my algorithm generates evenly matched teams with options to reroll the teams or substitute in a player. 
 
 [Dashboard #1](https://public.tableau.com/app/profile/andrew.g.edwards/viz/FortStats/CTRATKS)
+
 [Dashboard #2](https://public.tableau.com/app/profile/andrew.g.edwards/viz/FortTierControlPanel/Dashboard1)
 
 ## Technical Skills Utilized
