@@ -11,7 +11,7 @@ This repository contains a catalog of Data Analytics/Science projects completed 
 
 ## Contents
 - [Life Data Analysis](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/life-data-analysis)
-  - I tracked data about my everyday life for over a year and used it to process into insightful visualizations using Python libraries and Tableau. Tableau dashboard of dataset [found here.](https://public.tableau.com/app/profile/andrew.g.edwards/viz/Life-Data/UPKEEP?publish=yes)
+  - I tracked data about my everyday life (sleep, mood, habits, weather, etc) for over a year and used it investigate causation and correlation between variables and to process into insightful visualizations using Python libraries and Tableau. Tableau dashboard of dataset [found here.](https://public.tableau.com/app/profile/andrew.g.edwards/viz/Life-Data/UPKEEP?publish=yes)
 - [Top 100 Spotify Analysis](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/top-100-spotify-analysis)
   - Myself and two friends each created a playlist of our favorite 100 songs of all time. I wrote a Python script using the Spotify API to to pull data from each playlist, scrubbing it for meaningful insights, then exporting into a workable csv. Data was aggregated and processed in Google Sheets. Data was analyzed using Python (PANDAS) and visualization libraries.
 - [World Cup Analysis](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/world-cup-analysis)
