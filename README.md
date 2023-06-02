@@ -12,7 +12,7 @@ This repository contains a catalog of Data Analytics/Science projects completed 
 
 ## Contents
 - [Armagetron Advanced](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/armagetron-advanced)
-  - Developed a skill-based match making algorithm for a multi-player online game.
+  - Developed a skill-based match making algorithm for a multi-player online game. Used gameplay data from the server logs to analyze the entire player base at large and draw distinction between skillset to create a hierarchy of rankings. My python script then uses those buckets of players to sort match making queues into balanced teams. 
 - [Life Data Analysis](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/life-data-analysis)
   - I tracked data about my everyday life (sleep, mood, habits, weather, etc) for over a year and used it investigate causation and correlation between variables and to process into insightful visualizations using Python libraries and Tableau. Tableau dashboard of dataset [found here.](https://public.tableau.com/app/profile/andrew.g.edwards/viz/Life-Data/UPKEEP?publish=yes)
 - [Top 100 Spotify Analysis](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/top-100-spotify-analysis)
