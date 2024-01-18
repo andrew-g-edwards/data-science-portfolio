@@ -1,7 +1,7 @@
 # Life Data
 Starting April 2022, I started tracking data about my everyday life, including mood, sleep, appetite, exercise, socializing, time spent outdoors, looking at a screen, working, alcohol and nicotine use, hygienic habits, the temperature, and the weather. I store all of this data in a Google Sheet with informative pivot tables, subsets, and formatting.
 
---> [2023 LIFE DATA HEATMAP CALENDAR, TABLEAU DASHBOARD](https://public.tableau.com/app/profile/andrew.g.edwards/viz/lifedata2023/MOOD)<--
+--> [2023 HEATMAP CALENDAR, TABLEAU DASHBOARD](https://public.tableau.com/app/profile/andrew.g.edwards/viz/lifedata2023/MOOD)<--
 
 -> [TABLEAU DASHBOARD](https://public.tableau.com/app/profile/andrew.g.edwards/viz/Life-Data/UPKEEP?publish=yes) <-
 
