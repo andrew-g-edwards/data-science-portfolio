@@ -3,6 +3,8 @@ Starting April 2022, I started tracking data about my everyday life, including m
 
 --> [2023 HEATMAP CALENDAR, TABLEAU DASHBOARD](https://public.tableau.com/app/profile/andrew.g.edwards/viz/lifedata2023/MOOD)<--
 
+The above link is a catalog of heatmaps I made for the 2023 calendar year, documenting my daily behavior in several different measurments and metrics. 
+
 -> [TABLEAU DASHBOARD](https://public.tableau.com/app/profile/andrew.g.edwards/viz/Life-Data/UPKEEP?publish=yes) <-
 
 The analysis aims to explore questions:
