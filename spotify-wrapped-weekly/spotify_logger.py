@@ -223,10 +223,10 @@ class SpotifyLogger:
 
 def main():
     # credentials
-    CLIENT_ID = 'f3220ed6bd044024a121a5d2634c538b'
-    CLIENT_SECRET = 'b466791b5cb04e63a13ae6ff4fa8980a'
+    CLIENT_ID = client_id
+    CLIENT_SECRET = client_secret
     REDIRECT_URI = 'http://localhost:8888/callback'
-    SHEET_ID = '1q-HSQ8qR1UjLvpfF-xSO_tIW_6Ohtjear9vWHlTU0CI'
+    SHEET_ID = sheet_id
 
     # try to remove the cache file
     import os
