@@ -7,13 +7,14 @@ This repository contains a catalog of Data Analytics/Science projects completed 
 - PANDAS
 - Google Sheets + gspread API
 - Tableau
-- Jupyter Notebook
+- Object-Oriented Programming
 - Google Cloud Platform (sheets API, cloud scheduler)
 - JavaScript
 - HTML / CSS
-- Object-Oriented Programming
+- CRON Jobs
 - Spotify API
 - Discord API
+- Jupyter Notebooks
 - smtplib
 
 ## Contents
