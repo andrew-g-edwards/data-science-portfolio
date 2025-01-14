@@ -1,5 +1,5 @@
 # Spotify Wrapped Weekly
-As an avid music listener, why wait 12 months for Spotify Wrapped every year? Especially when all of your data is right there? This script tracks all of my listening data and provides me with my own "spotify wrapped" every single week.
+As an avid music listener, why wait 12 months for Spotify Wrapped every year? Especially when all of your data is right there? This application tracks all of my listening data and provides me with my own "spotify wrapped" every single week.
 
 ## Technical Skills Utilized
 - Python
@@ -19,3 +19,9 @@ I wrote a script that creates an instance of the Spotify API and passes my crede
 I have another script that pulls the data from the Google Sheet where it's hosted and has a class to break it down into usable structures. I seperate the data by week, using the current week for analysis, and the previous week for comparison. Unique tracks and artists are counted, total listening time is tallied, and hourly listening patterns are processes. I provide tables for the Top Arists and Top Tracks, datapoints that compare last week's stats to the current week's, and create a heat map for daily and hourly listening data.
 
 ![heatmap](https://github.com/user-attachments/assets/03229ad9-1563-459a-b433-e10e57784882)
+
+This analysis is then all packaged into an e-mail by way of HTML. I used CSS that emulates the themes and stylings of Spotify's branding.
+
+![email](https://github.com/user-attachments/assets/6aa9e434-6b22-4e1d-b963-91608becfd25)
+
+This being a snippet of the weekly email on mobile. The email is then executed using the smtplib library with a weekly local cron job scheduler using my Mac's native LaunchAgent.
