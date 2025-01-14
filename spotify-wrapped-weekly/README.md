@@ -22,6 +22,6 @@ I have another script that pulls the data from the Google Sheet where it's hoste
 
 This analysis is then all packaged into an e-mail by way of HTML. I used CSS that emulates the themes and stylings of Spotify's branding.
 
-![email](https://github.com/user-attachments/assets/6aa9e434-6b22-4e1d-b963-91608becfd25 =300x)
+![email](https://github.com/user-attachments/assets/6aa9e434-6b22-4e1d-b963-91608becfd25  | width=100)
 
 This being a snippet of the weekly email on mobile. The email is then executed using the smtplib library with a weekly local cron job scheduler using my Mac's native LaunchAgent.
