@@ -10,7 +10,7 @@ I built an algorithm that sorts the entire player base based on performance-driv
 ## Technical Skills Utilized
 - Python
 - PANDAS
-- Google Sheets
+- Google Sheets + gspread API
 - Tableau
 - Discord API
 
@@ -23,4 +23,4 @@ Fortress has 4 positional categories for each teams' players. Defence, Sweeper, 
 This gave me an idea of how to algorthmically and dynamically sort players into a bucketed tier system. With a 6v6 environment and diverse skillset in the queue, the buckets must be granular enough to be accurate, but coarse enough so as to not consistently group the same players together on the same team. After simulating hundreds of lobbies with different amounts of buckets I decided that 7 was an appropriate compromise of randomness and accuracy. To visualize what these Tiers would look like against the player base I made this [CONTROL PANEL TABLEAU DASHBOARD](https://public.tableau.com/app/profile/andrew.g.edwards/viz/FortTierControlPanel/Dashboard1). This also tells me when and where certain players are over/under performing withing their tier and if I should have to adjust variables in my algorithm to make things more balanced.
 
 ## Implementation
-Since Armagetron is an indie game from the 2000s with limited dev power, most of the gameplay is coordinated through a Discord server. To make it most accessible, I developed a [custom bot script](https://github.com/andrew-g-edwards/data-science-portfolio/blob/main/armagetron-advanced/aa-sbmm.py) using Discord's Python API. The script queues 12 players and then algorithmically sorts them into 2 balanced teams. 
+Since Armagetron is an indie game from the 2000s with limited dev power, most of the gameplay is coordinated through a Discord server. To make it most accessible, I developed a [custom bot script](https://github.com/andrew-g-edwards/data-science-portfolio/blob/main/armagetron-advanced/tron-sbmm.py) using Discord's Python API. The script queues 12 players and then algorithmically sorts them into 2 balanced teams. All of the bucketed tier data is picked up from the stat-logging script endpoint in a google sheet. I call on the gspread API to populate the data structures within the SBMM script.
