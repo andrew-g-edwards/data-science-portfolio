@@ -9,8 +9,8 @@ As an avid music listener, why wait 12 months for Spotify Wrapped every year? Es
 - JavaScript
 - HTML / CSS
 - Object-Oriented Programming
-- Spotify API
 - smtplib
+- API Orchestration (last.fm + Spotify APIs)
 
 ## Data Migration
 I wrote a script that creates an instance of the Spotify API and passes my credentials into a class that in turn, logs all of my Spotify listening data into a PANDAS dataframe. This data includes when I listened to a track, the artist of the track, track name, album name, release date, popularity, song duration, etc. The data is processed and then sent through the gspread API into a google sheet. Since the API only calls your 50 most recent tracks, I elected to have this code run every three hours, so as to not lose and data, but also minimize API traffic as much as I can. I set up a cron job using the Google Cloud Scheduler to migrate this data every 3 hours.
