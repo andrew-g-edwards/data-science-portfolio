@@ -26,6 +26,8 @@ This analysis is then all packaged into an e-mail by way of HTML. I used CSS tha
 
 This being a snippet of the weekly email on mobile. The email is then executed using the smtplib library with a weekly local cron job scheduler using my Mac's native LaunchAgent.
 
+<img width="591" alt="top artists" src="https://github.com/user-attachments/assets/0365f1d4-62ee-4386-af1b-e6d55d210b81" />
+
 ## API Orchestration
 In October of 2024, Spotify chose to limit the data one can pull from their API. They took away song features, genre data, and the ability to pull album artwork. In order to achieve the same level of insight as the former spotify API, I created an instance of the last.fm API, which has user populated fields for genre, song tags, and album art. I joined the last.fm data with each track from my Spotify dataframe and store it in a new Google Sheet. I used this data to populate my email with new charts:
 
