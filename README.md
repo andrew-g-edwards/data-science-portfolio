@@ -16,6 +16,7 @@ This repository contains a catalog of Data Analytics/Science projects completed 
 - Discord API
 - Jupyter Notebooks
 - smtplib
+- Plotly
 
 ## Contents
 - [Armagetron Advanced](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/armagetron-advanced)
@@ -24,3 +25,5 @@ This repository contains a catalog of Data Analytics/Science projects completed 
   - I track data about my everyday life (sleep, mood, habits, weather, etc) since April 2022 and use it investigate causation and correlation between variables and to process into insightful visualizations using Python libraries and Tableau. I created a [heatmap calendar for the year 2023](https://public.tableau.com/app/profile/andrew.g.edwards/viz/lifedata2023/MOOD) as well as an initial [dashboard](https://public.tableau.com/app/profile/andrew.g.edwards/viz/Life-Data/UPKEEP?publish=yes) for an earlier dataset.
 - [Spotify Wrapped Weekly](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/spotify-wrapped-weekly)
   - A script that calls the Spotipy API every few hours and logs my listening history into a Google Sheet using gspread API, PANDAS, and a scheduled GCP cron job. Another script to analyze the data, create charts, and send a weekly "wrapped" e-mail to myself using html, smtplib, and a local cron job.
+- [Spotify Extended Listening History](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/spotify-top10-history)
+    - An interactive plotly visualization representing my the highlights of the massive dataset that is my 10+ year Spotify listening history.
