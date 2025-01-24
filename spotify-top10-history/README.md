@@ -20,9 +20,17 @@ In addition, I created a Jupyter Notebook where I connect my pandas dataframe to
 
 ## Visualizations
 <img width="921" alt="listening metrics by year" src="https://github.com/user-attachments/assets/28d9eb1f-d04a-4e87-9b46-36d94d59b75e" />
+
+
 <img width="900" alt="top songs by year" src="https://github.com/user-attachments/assets/9fe400c0-b877-4a13-9460-00e54e3c79c1" />
+
+
 <img width="1120" alt="heatmap day vs. hour" src="https://github.com/user-attachments/assets/ef1343ac-f877-4dc8-a268-a62829ea3ff7" />
+
+
 <img width="1131" alt="heatmap year vs. month" src="https://github.com/user-attachments/assets/a2eee154-fdd3-4d02-86f2-be6eed038246" />
+
+
 <img width="1125" alt="phases" src="https://github.com/user-attachments/assets/fae19a39-873e-48c0-93b1-38a99ff21c31" />
 
 
