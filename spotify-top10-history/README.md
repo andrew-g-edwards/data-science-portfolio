@@ -7,7 +7,7 @@ I've been a Spotify user since 2015 and I requested my entire listening history.
 - Pandas
 - Plotly / Matplotlib / seaborn
 - JSON parsing
-- Data Visualization
+- Data Visualization + Animation
 - Jupyter Notebook
 
 ## Data Analysis
@@ -19,7 +19,13 @@ In addition, I created a Jupyter Notebook where I connect my pandas dataframe to
 <img width="1104" alt="sankey diagram" src="https://github.com/user-attachments/assets/9330adb6-4a8e-4a68-941a-19999e12f346" />
 
 ## Bar Chart Race
-[![Video Title](https://img.youtube.com/vi/hLEvAWv1Bjs/0.jpg)](https://www.youtube.com/watch?v=hLEvAWv1Bjs&ab_channel=AndrewEdwards)
+I used flourish.studio to create an animated bar chart race for my top artists and listening habits evolution over time. I queried my data base to find a rolling 30-day total of my top artists, compounded every week. You can view it by clicking on the image below. 
+[![click here](https://img.youtube.com/vi/hLEvAWv1Bjs/0.jpg)](https://www.youtube.com/watch?v=hLEvAWv1Bjs&ab_channel=AndrewEdwards)
+
+Here is the query and data manipulation I used to build the dataset used in the animation:
+
+<img width="598" alt="bar chart query" src="https://github.com/user-attachments/assets/f7ea4509-6460-438f-a5c5-e353eae83f91" />
+
 
 ## Visualizations and Queried Tables
 <img width="921" alt="listening metrics by year" src="https://github.com/user-attachments/assets/28d9eb1f-d04a-4e87-9b46-36d94d59b75e" />
