@@ -18,6 +18,9 @@ In addition, I created a Jupyter Notebook where I connect my pandas dataframe to
 ## Top Artist Sankey Diagram
 <img width="1104" alt="sankey diagram" src="https://github.com/user-attachments/assets/9330adb6-4a8e-4a68-941a-19999e12f346" />
 
+## Bar Chart Race
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=hLEvAWv1Bjs&ab_channel=AndrewEdwards))
+
 ## Visualizations and Queried Tables
 <img width="921" alt="listening metrics by year" src="https://github.com/user-attachments/assets/28d9eb1f-d04a-4e87-9b46-36d94d59b75e" />
 
