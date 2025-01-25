@@ -20,7 +20,8 @@ In addition, I created a Jupyter Notebook where I connect my pandas dataframe to
 
 ## Bar Chart Race
 I used flourish.studio to create an animated bar chart race for my top artists and listening habits evolution over time. I queried my data base to find a rolling 30-day total of my top artists, compounded every week. You can view it by clicking on the image below. 
-[![click here](https://img.youtube.com/vi/hLEvAWv1Bjs/0.jpg)](https://www.youtube.com/watch?v=hLEvAWv1Bjs&ab_channel=AndrewEdwards)
+
+[![click here]([https://img.youtube.com/vi/hLEvAWv1Bjs/0.jpg](https://github.com/user-attachments/assets/7784e9b9-61ec-403f-97f5-ad1edca1153e))](https://www.youtube.com/watch?v=hLEvAWv1Bjs&ab_channel=AndrewEdwards)
 
 Here is the query and data manipulation I used to build the dataset used in the animation:
 
