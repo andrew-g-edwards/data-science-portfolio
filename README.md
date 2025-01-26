@@ -18,6 +18,7 @@ This repository contains a catalog of Data Analytics/Science projects completed 
 - Jupyter Notebooks
 - smtplib
 - Plotly
+- Animated Visualization (flourish.studio)
 
 ## Contents
 - [Armagetron Advanced](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/armagetron-advanced)
@@ -27,4 +28,4 @@ This repository contains a catalog of Data Analytics/Science projects completed 
 - [Spotify Wrapped Weekly](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/spotify-wrapped-weekly)
   - A script that calls the Spotipy API every few hours and logs my listening history into a Google Sheet using gspread API, PANDAS, and a scheduled GCP cron job. Another script to analyze the data, create charts, and send a weekly "wrapped" e-mail to myself using html, smtplib, and a local cron job.
 - [Spotify Extended Listening History](https://github.com/andrew-g-edwards/data-science-portfolio/tree/main/spotify-top10-history)
-    - An interactive plotly visualization representing my the highlights of the massive dataset that is my 10+ year Spotify listening history. Additionally queried data tables and visualizations using python integrated PANDAS and SQL.
+    - An interactive plotly visualization representing my the highlights of the massive dataset that is my 10+ year Spotify listening history. Additionally queried data tables and visualizations using python integrated PANDAS and SQL. Created an animated visualization using flourish.studio to show fluctuation in listening habits.
